@@ -16,7 +16,7 @@ export const menu_data = [
   },
   {
     element: "Project Link",
-    link: "https://github.com/Shiv-9031/payinstacard/tree/master",
+    link: "https://github.com/Shiv-9031/SciAstra/tree/master",
   },
 ];
 
