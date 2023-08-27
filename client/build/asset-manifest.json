@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd0d7ad5.css",
+    "main.js": "/static/js/main.3168e0aa.js",
+    "static/js/787.91037693.chunk.js": "/static/js/787.91037693.chunk.js",
+    "static/media/Etz.jpg": "/static/media/Etz.1242423fa261b09e14db.jpg",
+    "static/media/harvard.jpg": "/static/media/harvard.ada9a4d121771eae7a26.jpg",
+    "static/media/web-developer.png": "/static/media/web-developer.4ca45b877b2f52ee1b52.png",
+    "static/media/cambridge.jpg": "/static/media/cambridge.8c4afad645b8029ce643.jpg",
+    "static/media/iitkharagpur.jpg": "/static/media/iitkharagpur.4f63fcba8bb10374e7a4.jpg",
+    "static/media/iitrookee.jpg": "/static/media/iitrookee.61c655b74bd25cba9587.jpg",
+    "static/media/iitbombay.jpg": "/static/media/iitbombay.5820d3a7edbeb5cc895b.jpg",
+    "static/media/california.jpg": "/static/media/california.85d0c3fd2b63ff0149c5.jpg",
+    "static/media/login.png": "/static/media/login.7ff78357742f6ab58045.png",
+    "index.html": "/index.html",
+    "main.cd0d7ad5.css.map": "/static/css/main.cd0d7ad5.css.map",
+    "main.3168e0aa.js.map": "/static/js/main.3168e0aa.js.map",
+    "787.91037693.chunk.js.map": "/static/js/787.91037693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0d7ad5.css",
+    "static/js/main.3168e0aa.js"
+  ]
+}
