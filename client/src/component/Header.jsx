@@ -47,7 +47,7 @@ export const Header = ({ children }) => {
 
                 <li className="header-item">
                   <a
-                    href="https://github.com/Shiv-9031/payinstacard/tree/master"
+                    href="https://github.com/Shiv-9031/SciAstra/tree/master"
                     target="_blank"
                     rel="noreferrer"
                   >

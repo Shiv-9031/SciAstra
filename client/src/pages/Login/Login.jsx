@@ -20,8 +20,8 @@ export const Login = () => {
     try {
       setloading(true);
       let response = await axios.post(
-        "http://localhost:8080/api/v1/user/login",
-        //"https://payinstacard.onrender.com/api/v1/user/login",
+        // "http://localhost:8080/api/v1/user/login",
+        "https://payinstacard.onrender.com/api/v1/user/login",
         payload
       );
       //navigate
